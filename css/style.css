@@ -26,6 +26,7 @@ form{
     flex-direction: column;
     align-items: center;
     border: none;
+    border-radius: 10px;
     
 }
 
@@ -35,7 +36,7 @@ form #mail, #senha{
     margin-top: 15px;
     border-radius: 10px;
     outline: none;
-    font-size: 10px;
+    font-size: 15px;
     text-align: center;
 }
 
@@ -46,7 +47,7 @@ form #conf{
     margin-bottom: 15px;
     border-radius: 10px;
     outline: none;
-    font-size: 10px;
+    font-size: 15px;
 }
 
 form #conf:hover{
